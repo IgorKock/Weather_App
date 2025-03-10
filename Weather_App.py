@@ -14,7 +14,7 @@ def get_forecast(city, api_key):
         data = request.json()
 
         if data["cod"] != 200:
-            raise ValueError("Cidade não encontrada.")
+            raise ValueError("City  not found.")
 
         # Getting the information of the JSON that was returned
         temperature = data['main']['temp']
