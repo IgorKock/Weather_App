@@ -28,6 +28,7 @@ def get_forecast(city, api_key):
                           f"Description: {description}\n"
                           f"Humidity: {humidity}%\n"
                           f"Wind: {wind} m/s")
+                          #f"Wind: {wind} mph")  
 
     except requests.exceptions.RequestException as e:
         messagebox.showerror("Error", f"Requesition Error: {e}")
