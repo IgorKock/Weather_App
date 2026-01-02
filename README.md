@@ -1,5 +1,3 @@
-# Weather_App 🌦️
-
 ## 🇧🇷 Português
 
 ### Sobre
