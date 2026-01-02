@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Português
 
-## Sobre
+### Sobre
 PT: App de previsão do tempo feito com Python e a API da OpenWeatherMap.
 
 ### Requisitos
