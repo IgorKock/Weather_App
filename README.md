@@ -1,4 +1,4 @@
-## 🇧🇷 Português
+## Português
 
 ### Sobre
 App de previsão do tempo feito com Python e a API da OpenWeatherMap.
@@ -9,7 +9,7 @@ Precisa do Python 3.13.2 or suprior, da API da OpenWeatherMap e dos seguintes pa
 ### Como Compliar
 Clone este repositório, adicione ele na sua IDE (ou não se preferir algum editor de texto), instale usando o PIP: requests, tkinter (messagebox já vem incluso), adicione a API da OpenWeatherMap e então compile o código.
 
-## 🇪🇳 English
+## English
 
 ### About
 Simple Weather forecast app made with Python and OpenWeatherMap's API.
